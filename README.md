@@ -818,3 +818,8 @@ void loadSettings() {
       calOffset > 20)
     calOffset = 0.0;
 }
+
+
+
+
+//created by chartgpt and gemini
